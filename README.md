@@ -1,7 +1,7 @@
 # pySensors_SSD1306
 Raspberry Pi 3B read DHT22 and PMSA003's data with python3,then write MongoDB and display on SSD1306.
 
-![img](https://im4.ezgif.com/tmp/ezgif-4-a4ea5c1d0a.webp)
+![img](https://raw.githubusercontent.com/loliw/pySensors_SSD1306/master/preview.webp)
 
 
 ## Install dependency
