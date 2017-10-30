@@ -90,7 +90,6 @@ class mongodbIO():
 class oledDraw():
     def __init__(self):
         self.disp = Adafruit_SSD1306.SSD1306_128_64()
-        self.font = ImageFont.load_default()
         self.disp.begin()
         self.disp.clear()
         self.disp.display()
