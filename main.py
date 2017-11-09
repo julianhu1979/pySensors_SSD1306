@@ -92,7 +92,6 @@ class oledDraw():
         self.disp = Adafruit_SSD1306.SSD1306_128_64()
         self.disp.begin()
         self.disp.clear()
-        self.disp.display()
         self.width = self.disp.width
         self.height = self.disp.height
         self.image = Image.new('1', (self.width, self.height))
